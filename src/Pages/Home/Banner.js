@@ -11,7 +11,7 @@ const Banner = () => {
                     <p class="py-6">I'm a frontend developer focused on crafting <br />
                         & user-friendly experiences.I'm passionate building excellent websites.</p>
                     <button class="btn btn-primary">
-                        <a href={resume} download="JUNAKEY_RESUME.pdf">Download Resume</a>
+                        <a href={resume} download="JUNAKEY_RESUME.pdf"> Resume</a>
                     </button>
                 </div>
             </div>
