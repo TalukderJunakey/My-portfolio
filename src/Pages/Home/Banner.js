@@ -9,7 +9,9 @@ const Banner = () => {
                     <h1 class="text-5xl font-bold ">--I'M JUNAKEY</h1>
                     <p class="py-6">I'm a frontend developer focused on crafting <br />
                         & user-friendly experiences.I'm passionate building excellent websites.</p>
-                    <button class="btn btn-primary">See Resume</button>
+                    <button class="btn btn-primary">See Resume
+                        <a class="link" target="_blank" href=""></a>
+                    </button>
                 </div>
             </div>
         </div>

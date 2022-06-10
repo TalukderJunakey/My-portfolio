@@ -9,9 +9,7 @@ const Experience = ({ experience }) => {
             <div class="card-body items-center text-center">
                 <h2 class="card-title">{experience.name}</h2>
 
-                <div class="card-actions">
-                    <button class="btn btn-primary">Buy Now</button>
-                </div>
+
             </div>
         </div>
     );
